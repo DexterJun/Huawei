@@ -1,0 +1,163 @@
+{
+  "id": "2007951",
+  "name": "华为官网",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "59717",
+      "name": "weibo",
+      "font_class": "iconweibo",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1948837",
+      "name": "终端-平板",
+      "font_class": "zhongduan-pingban",
+      "unicode": "e8f7",
+      "unicode_decimal": 59639
+    },
+    {
+      "icon_id": "2092305",
+      "name": "vr眼镜",
+      "font_class": "vryanjing",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "3184817",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "3351721",
+      "name": "遥控器",
+      "font_class": "yaokongqi",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "4555515",
+      "name": "客户",
+      "font_class": "kehu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "4723222",
+      "name": "耳机",
+      "font_class": "erji",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "5003238",
+      "name": "客户",
+      "font_class": "kehu1",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "5204538",
+      "name": "潮衣铺—手机壳",
+      "font_class": "chaoyipu",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "5240611",
+      "name": "手表",
+      "font_class": "shoubiao",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    },
+    {
+      "icon_id": "8092372",
+      "name": "云",
+      "font_class": "yun",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "8216071",
+      "name": "手机壳",
+      "font_class": "shoujike",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "8715904",
+      "name": "手机壳",
+      "font_class": "shoujike1",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "10431718",
+      "name": "耳机",
+      "font_class": "erji1",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "10539054",
+      "name": "IN",
+      "font_class": "IN",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "10662204",
+      "name": "VR眼镜",
+      "font_class": "VRyanjing",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "10805510",
+      "name": "头条",
+      "font_class": "toutiao",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "11034244",
+      "name": "房子",
+      "font_class": "fangzi",
+      "unicode": "e97d",
+      "unicode_decimal": 59773
+    },
+    {
+      "icon_id": "12372512",
+      "name": "笔记本",
+      "font_class": "system",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "13853436",
+      "name": "知乎",
+      "font_class": "zhihu",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "15557845",
+      "name": "显示器",
+      "font_class": "changyongtubiao1-33",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "15660896",
+      "name": "EMUI",
+      "font_class": "EMUI",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    }
+  ]
+}
